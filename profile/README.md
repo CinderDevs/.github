@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CinderDevs/.github/main/profile/ee42d91ece376e6847f6941b72269c76.gif" width="100%">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFA3udIGRUvjV32BedZGCDB0uhVEWf4Rr0cf7pQ7gPKg&s" width="20%">
 </p>
